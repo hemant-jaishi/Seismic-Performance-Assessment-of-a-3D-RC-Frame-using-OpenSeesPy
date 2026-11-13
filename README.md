@@ -32,7 +32,7 @@ Performance limits used for the discussion: IO = 1%, LS = 2%, CP = 4% maximum in
 
 ![Pushover curves](Plots/Pushover_curves.png)
 ![MIDR profile](Plots/MIDR_Profile.png)
-![IDA curves](Plots/IDA.png)
+![IDA curves](Plots/IDA_curves.png)
 
 | NLTHA Result at PGA = 0.35 g (mean of 7 records) | X-direction | Y-direction |
 |---|---|---|
